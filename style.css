@@ -1,0 +1,22 @@
+body{
+    background: #2C2B3D;
+}
+
+.logo{
+    display: flex;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+hr{
+    width: 570px;
+    border-color: #00BFA6;
+}
+
+
