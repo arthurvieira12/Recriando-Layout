@@ -1,6 +1,6 @@
 
 body{
-    max-height: 100vh;
+    min-height: 100vh;
     
     background: #2C2B3D;
     font-family: 'JetBrains Mono', monospace;
@@ -14,12 +14,9 @@ body{
    
    width: 1090px;
 
-   margin: 70px auto 20px;
-
-
+   margin: 70px auto 1000px;
 
 }
-
 
 
 nav{
