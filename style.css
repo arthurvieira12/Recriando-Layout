@@ -1,20 +1,22 @@
 
 body{
-    min-height: 100vh;
     
     background: #2C2B3D;
     font-family: 'JetBrains Mono', monospace;
     color: #FFFFFF;
+    
+    min-height: 100vh;
 
-  
-
+    margin: 0px;
 }
 
 .page{
    
    width: 1090px;
 
-   margin: 70px auto 1000px;
+   margin: 0 auto;
+   padding-top: 70px;
+   padding-bottom: 20px;
 
 }
 
