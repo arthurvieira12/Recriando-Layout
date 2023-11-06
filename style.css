@@ -36,8 +36,8 @@ ul{
     gap: 64px;
     
     list-style-type: none;
-    
 
+    
 }
 
 a{
@@ -47,9 +47,12 @@ a{
 }
 
 
+ ul li a:hover {
+    font-weight: bold;
+    
+ }
+
  
-
-
   
 main{
     display: flex;
